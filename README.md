@@ -31,7 +31,7 @@ THEN the saved events persist
 The app has 1 page which is index.html.there is 1 Javascript file. And, styles.css for styling the app.
 
 ## Accessing the site
-Please visit [my website]().
+Please visit [my website](https://eli-33.github.io/Day-planner.github.io/).
 
 ## Screenshot
 added in Issues
